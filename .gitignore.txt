@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code settings (if using VSCode)
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python-specific
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Output files
+*.h5
+*.hdf5
+*.keras
+*.ckpt
+*.pb
+
+# TensorBoard logs
+logs/
+events.out.tfevents.*
+
+# Dataset files (very large and not pushed to GitHub)
+HAM10000_images_part_1/
+HAM10000_images_part_2/
+HAM10000_metadata.csv
+
+# Model predictions or test images
+test_image.jpg
+predictions/
+
+# Cache or intermediate data
+.cache/
+__pycache__/
+*.npz
+*.npy
+*.tmp
+
+# Jupyter runtime
+~$*
+*.bak
