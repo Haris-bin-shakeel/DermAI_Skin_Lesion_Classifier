@@ -87,7 +87,7 @@ model = Sequential([
     Dropout(0.5),
     Dense(3, activation='softmax')
 ])
-
+```
 ---
 ### Future Work & Roadmap
 
@@ -135,6 +135,7 @@ cd DermAI_Skin_Lesion_Classifier
 # Launch the notebook
 jupyter notebook DermAI_Skin_Lesion_Classifier.ipynb
 
+```
 ---
 
 ### About Me
