@@ -1,6 +1,6 @@
 # DermAI — Skin Lesion Classification Using CNNs
 
-A deep learning project aimed at automated skin lesion classification using the **HAM10000** dataset. This project demonstrates the practical application of image classification techniques with Convolutional Neural Networks (CNNs), marking a key milestone in my machine learning journey, guided by the **Deep Learning Specialization by Andrew Ng**.
+A deep learning project aimed at automated skin lesion classification using the **HAM10000** dataset. This project demonstrates the practical application of image classification techniques with Convolutional Neural Networks (CNNs), marking a key milestone in my machine learning journey.
 
 ---
 
