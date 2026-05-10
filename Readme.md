@@ -9,7 +9,7 @@
 
 A practical end-to-end CNN pipeline for multi-class skin lesion classification using the **HAM10000** dermatology dataset. Built with TensorFlow/Keras and designed for reproducibility, clean experimentation, and easy adaptation to similar medical imaging tasks.
 
-> ⚠️ **Disclaimer**: This project is for educational and research purposes only. It is not intended for clinical use.
+> ⚠️ **Disclaimer**: This project is for research purposes only. It is not intended for clinical use.
 
 ---
 
